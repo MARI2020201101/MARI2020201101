@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mari!!
 - 👀 I’m interested in Java, Spring, Jsp, Jpa Study! 
-- 🌱 I’m currently trying to create shopping mall page.
+- 🌱 I’m currently studing about spring-data-jpa!
 - 📫 How to reach me : mari20201101@gmail.com
 
 <!---
