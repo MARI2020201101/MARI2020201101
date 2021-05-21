@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 * Blog : https://cutemariworld.blogspot.com
 * Mail : mari20201101@gmail.com
 ```
-타고난 끈기와 배움을 향한 갈증을 풀어나갈 수 있는 IT업계의 매력에 풍덩!
+배움을 향한 갈증을 타고난 끈기로 풀어나가는 IT업계의 매력에 풍덩!
 평생 코딩하는 여성 시니어 개발자가 되는 것이 목표.
 ```
 ---
