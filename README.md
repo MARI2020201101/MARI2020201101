@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 :exclamation: 항상 다음 스텝을 꿈꾸는 현재진행형 개발자 
 ---
 ## 안녕하세요!
+![프로필이미지](https://github.com/MARI2020201101/MARI2020201101/blob/main/Futari%20wa%20Pretty%20Cure-splashstar%20(2).png)
 * Name : Mari
 * Blog : https://cutemariworld.blogspot.com
 * Mail : mari20201101@gmail.com
