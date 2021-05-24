@@ -28,5 +28,10 @@ You can click the Preview link to take a look at your changes.
 ## 프로젝트
 * Mari's Myweb
   * 주소 : http://mari20201101.cafe24.com/
+---
+## TODO
+* JPA
+* Data Structure & Computer Science
+* Algorithm
 
 
