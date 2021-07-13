@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ```
 ---
-## 보유기술
+## :star2:보유기술
 #### Front - End : 
   - HTML, CSS3, JavaScript
   - JSP, Thymeleaf
@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   - IntelliJ, STS, Visual Studio Code
   - OracleDB, MariaDB, H2
 ---
-## 프로젝트
+## :high_brightness:프로젝트
 ### Mari's Board
 - 회원제 이미지 첨부형 게시판 
 - 기여도 : 100% (개인)
@@ -51,11 +51,11 @@ You can click the Preview link to take a look at your changes.
 - 단순 기능 구현을 넘어서, 유저에게 유의미한 서비스를 효과적으로 제공
 - 프로젝트 상세를 [여기](https://github.com/MARI2020201101/Udada_Project)에서 확인하실 수 있습니다.
 ---
-## 자격증
+## :pencil:자격증
 * 정보처리기사
 * 컴퓨터활용능력 1급
 
-## 외국어
+## :book:외국어
 * TOEIC 935점
 * JLPTN1
 
