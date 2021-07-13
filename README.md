@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 * 정보처리기사
 * 컴퓨터활용능력 1급
 
-## :blue_book:외국어
+## :earth_americas:외국어
 * TOEIC 935점
 * JLPTN1
 
