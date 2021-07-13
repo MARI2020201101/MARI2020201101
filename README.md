@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 - 단순 기능 구현을 넘어서, 유저에게 유의미한 서비스를 효과적으로 제공
 - [프로젝트 상세를 여기에서 확인하실 수 있습니다.](https://github.com/MARI2020201101/Udada_Project)
 ---
-## :memo:자격증
+## :red_circle:자격증
 * 정보처리기사
 * 컴퓨터활용능력 1급
 
