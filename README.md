@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   - IntelliJ, STS, Visual Studio Code
   - OracleDB, MariaDB, H2
 ---
-## :high_brightness:프로젝트
+## :white_check_mark:프로젝트
 ### Mari's Board
 - 회원제 이미지 첨부형 게시판 
 - 기여도 : 100% (개인)
