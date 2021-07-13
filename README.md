@@ -21,17 +21,17 @@ You can click the Preview link to take a look at your changes.
 ```
 ---
 ## 보유기술
-* Front - End : 
-- HTML, CSS3, JavaScript
-- JSP, Thymeleaf
+#### Front - End : 
+  - HTML, CSS3, JavaScript
+  - JSP, Thymeleaf
 
-* Back - End : 
-- Java, Python
-- Spring Boot, Spring MVC,  Spring Security, Spring Data JPA
-- MyBatis
-- Gradle, Maven
-- IntelliJ, STS, Visual Studio Code
-- OracleDB, MariaDB, H2
+#### Back - End : 
+  - Java, Python
+  - Spring Boot, Spring MVC,  Spring Security, Spring Data JPA
+  - MyBatis
+  - Gradle, Maven
+  - IntelliJ, STS, Visual Studio Code
+  - OracleDB, MariaDB, H2
 ---
 ## 프로젝트
 ### Mari's Board
