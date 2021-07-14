@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ---
 ## 안녕하세요!
 ![프로필이미지](https://github.com/MARI2020201101/MARI2020201101/blob/main/profile-img.png)
-* Name : YOOK MARI
+* Name : 육승현 (YOOK MARI)
 * Blog : https://cutemariworld.blogspot.com
 * Mail : mari20201101@gmail.com
 ```
