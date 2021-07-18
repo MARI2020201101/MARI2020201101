@@ -34,14 +34,6 @@ You can click the Preview link to take a look at your changes.
   - OracleDB, MariaDB, H2
 ---
 ## :white_check_mark:프로젝트
-### Mari's Board
-- 회원제 이미지 첨부형 게시판 
-- 기여도 : 100% (개인)
-- Spring data JPA를 활용하여 어플리케이션의 제작부터 배포까지 직접 구현
-- 지속적인 피드백을 통한 끊임없는 개선 활동
-- [프로젝트 상세를 여기에서 확인하실 수 있습니다.](https://github.com/MARI2020201101/Mari_ImageBoard_JPA_MyBatis)
-
-
 ### UDADA
 - 회원의 식습관 및 운동현황을 기록하고 분석해주는 다이어트 웹 어플리케이션
 - 역할 : 테크리더
@@ -50,6 +42,14 @@ You can click the Preview link to take a look at your changes.
 - 프레임워크의 다양한 기능과 협업 도구를 전파하여 보다 생산적인 팀워크 구축
 - 단순 기능 구현을 넘어서, 유저에게 유의미한 서비스를 효과적으로 제공
 - [프로젝트 상세를 여기에서 확인하실 수 있습니다.](https://github.com/MARI2020201101/Udada_Project)
+
+
+### Mari's Board
+- 회원제 이미지 첨부형 게시판 
+- 기여도 : 100% (개인)
+- Spring data JPA를 활용하여 어플리케이션의 제작부터 배포까지 직접 구현
+- 지속적인 피드백을 통한 끊임없는 개선 활동
+- [프로젝트 상세를 여기에서 확인하실 수 있습니다.](https://github.com/MARI2020201101/Mari_ImageBoard_JPA_MyBatis)
 ---
 ## :pencil2:자격증
 * 정보처리기사
