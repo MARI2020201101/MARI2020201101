@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 * TOEIC 935점
 * JLPT N1
 ---
-## 📚study...
+## 📚독서
 * Java의 정석
 * Java의 신
 * 이펙티브 자바
