@@ -58,5 +58,12 @@ You can click the Preview link to take a look at your changes.
 ## :earth_americas:외국어
 * TOEIC 935점
 * JLPT N1
-
+---
+## 📚study...
+* Java의 정석
+* Java의 신
+* 이펙티브 자바
+* 클린코드
+* 실용주의 프로그래머
+* 객체지향의 사실과 오해
 
