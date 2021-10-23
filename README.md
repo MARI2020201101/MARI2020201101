@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   - MyBatis
   - Gradle, Maven
   - IntelliJ, STS, Visual Studio Code
-  - OracleDB, MariaDB, H2
+  - OracleDB, MySQL, MariaDB, H2
 ---
 ## :white_check_mark:프로젝트
 ### UDADA
@@ -66,4 +66,5 @@ You can click the Preview link to take a look at your changes.
 * 클린코드
 * 실용주의 프로그래머
 * 객체지향의 사실과 오해
+* 토비의 스프링 1
 
