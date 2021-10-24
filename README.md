@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Back - End : 
   - Java, Python
-  - Spring Boot, Spring MVC,  Spring Security, Spring Data JPA
+  - Spring Boot, Spring MVC, Spring Security, Spring Data JPA
   - MyBatis
   - Gradle, Maven
   - IntelliJ, STS, Visual Studio Code
