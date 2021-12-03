@@ -66,5 +66,5 @@ You can click the Preview link to take a look at your changes.
 * 클린코드
 * 실용주의 프로그래머
 * 객체지향의 사실과 오해
-* 토비의 스프링 1
-
+* 토비의 스프링
+* Do it! 자료구조와 함께 배우는 알고리즘 입문 
