@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ---
 :exclamation: 끊임없이 개선하는 현재진행형 엔지니어 
 ---
-## 안녕하세요!
+## About me
 
 * Blog : https://cutemariworld.blogspot.com
 * Mail : mari20201101@gmail.com
