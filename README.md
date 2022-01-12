@@ -68,3 +68,4 @@ You can click the Preview link to take a look at your changes.
 * 토비의 스프링
 * Do it! 자료구조와 함께 배우는 알고리즘 입문 
 * REST API 디자인 규칙
+* 멀티코어를 100% 활용하는 자바 병렬 프로그래밍
